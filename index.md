@@ -49,24 +49,13 @@ March 2021- Present<br>
 <!-- PROJECTS Section Starts -->
 ### PROJECTS
 <!-- Add your details -->
-
 [Personal Data Analytics projects](#Personal-data-analytics-project) <br>
 [Regression based projects](#regression-based-projects) <br>
-
 <!-- Add your details -->
 
 ### __Personal Data Analytics Project__
-[HDB Data Analysis](https://github.com/qiting-tan/Personal-Project_HDB-hunt-2021/blob/3861708f1e5e1c345e40fa07d14693e2dd1400e4/personal-project-hdb-resale-prices-from-2017.ipynb)
-In this project, i took data from data.gov.sg to analyse HDB trends to make better decision through data analytics.
-
-
-### Regression based projects
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Regression.jpg)
-
-Regression is a supervised learning technique which helps in finding the correlation between variables and enables us to predict the continuous output variable based on the one or more predictor variables.
-
-[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
-
+[HDB Data Analysis](https://github.com/qiting-tan/Personal-Project_HDB-hunt-2021/blob/3861708f1e5e1c345e40fa07d14693e2dd1400e4/personal-project-hdb-resale-prices-from-2017.ipynb)<br>
+In this project, I took data from data.gov.sg to analyse HDB(Singapore Public Housing) trends to make better decision through data analytics.<br>
 <!-- PROJECTS Section Ends -->
 
 <!-- FEATURED Section Starts -->
