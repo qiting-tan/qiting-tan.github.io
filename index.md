@@ -32,7 +32,6 @@ I am __Tan Qi Ting__, an aspiring data scientist. I am currently a trainee with 
 ### __Marshall Cavendish Education Pte Ltd__
 Editor<br>
 March-2020 to Feb 2021: 1 year <br> 
-
 ROLE: Mathematics Editor<br> 
 UNIT:Editorial<br> 
 
@@ -40,7 +39,7 @@ Working on various analytics based cases that facilitates clients for next-gener
 <!-- EXPERIENCE Section Ends -->
 
 <!-- EDUCATION Section Starts -->
-### EDUCATION
+## __EDUCATION__
 <!-- Add your details -->
 ### Boston Consulting Group Digital Academy <br> 
 Business and Data Analytics track<br> 
