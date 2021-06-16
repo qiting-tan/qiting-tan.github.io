@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
+![alt text](https://raw.githubusercontent.com/qiting-tan/qiting-tan.github.io/main/1623305477738.jpeg)
 
 <!-- Add your details -->
 
@@ -81,13 +81,13 @@ Regression is a supervised learning technique which helps in finding the correla
 ##### Certifications
 Udemy Academy
 1. The Complete SQL Bootcamp 2021: Go from Zero to Hero
-Click here to view certification](ude.my/UC-7185793c-c166-4764-8859-2155a642d220)
+Click here to view certification](https://ude.my/UC-7185793c-c166-4764-8859-2155a642d220)
 
 2.Python for Finance: Investment Fundamentals & Data Analytics
-Click here to view certification](http://ude.my/UC-02e94344-10a4-4796-bd12-16be4ab2345e)
+Click here to view certification](https://ude.my/UC-02e94344-10a4-4796-bd12-16be4ab2345e)
 
 3.Probability and Statistics for Business and Data Science
-Click here to view certification](http://ude.my/UC-3ad06c60-a395-4e6a-ac19-3936b5352b33)
+Click here to view certification](https://ude.my/UC-3ad06c60-a395-4e6a-ac19-3936b5352b33)
 
 ##### Achievements
 BCG RISE Top 2 Business Essentials Group Project
