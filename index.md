@@ -79,9 +79,18 @@ Regression is a supervised learning technique which helps in finding the correla
 ## FEATURED
 <!-- Add your details -->
 ##### Certifications
-Machine Learning by Columbia University
+Udemy Academy
+1. The Complete SQL Bootcamp 2021: Go from Zero to Hero
+Click here to view certification](ude.my/UC-7185793c-c166-4764-8859-2155a642d220)
+
+2.Python for Finance: Investment Fundamentals & Data Analytics
+Click here to view certification](http://ude.my/UC-02e94344-10a4-4796-bd12-16be4ab2345e)
+
+3.Probability and Statistics for Business and Data Science
+Click here to view certification](http://ude.my/UC-3ad06c60-a395-4e6a-ac19-3936b5352b33)
 
 ##### Achievements
-Star performer of the year at Accenture
+BCG RISE Top 2 Business Essentials Group Project
+Click here to view badge](https://www.credly.com/badges/0ae32d0e-435f-46d9-892f-afe1f5d93057)
 <!-- FEATURED Section Ends -->
 
