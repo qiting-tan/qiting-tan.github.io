@@ -1,37 +1,86 @@
-## Welcome to GitHub Pages
+<!-- CONTACT Section Starts -->
+### CONTACT
 
-You can use the [editor on GitHub](https://github.com/qiting-tan/qiting-tan.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<!-- Add your details -->
+✉️: keytanqiting@gmail.com 
+&nbsp;&nbsp; 📲 +91-XXXXXXXXXX
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/tanqiting/) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!-- CONTACT Section Ends -->
 
-### Markdown
+<!-- ABOUT Section Starts -->
+### ABOUT
+<!-- Add link to your picture -->
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
 
-```markdown
-Syntax highlighted code block
+<!-- Add your details -->
 
-# Header 1
-## Header 2
-### Header 3
+I am Tan Qi Ting, an aspiring data scientist. I am currently a trainee with Boston Consulting Group Digital Academy under Business and Data Analytics track. I am proficient in Python and SQL.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+<!-- Add link to the sections -->
+[Experience](#experience) <br>
+[Education](#education) <br>
+[Projects](#projects) <br>
+[Featured](#featured) <br> 
 
-**Bold** and _Italic_ and `Code` text
+<!-- ABOUT Section Ends -->
 
-[Link](url) and ![Image](src)
-```
+<!-- EXPERIENCE Section Starts -->
+### EXPERIENCE
+<!-- Add your details -->
+##### BOSTON CONSULTING GROUP
+SENIOR ANALYST<br>
+June-2019 to Present: 1 year 10 Months
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
+UNIT: BCG GAMMA
 
-### Jekyll Themes
+Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/qiting-tan/qiting-tan.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<!-- EXPERIENCE Section Ends -->
 
-### Support or Contact
+<!-- EDUCATION Section Starts -->
+### EDUCATION
+<!-- Add your details -->
+##### LNCT Bhopal
+Engineering Graduate 2010-14, First Division
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<!-- EDUCATION Section Ends -->
+
+<!-- PROJECTS Section Starts -->
+### PROJECTS
+<!-- Add your details -->
+
+[Classification based projects](#classification-based-projects) <br>
+[Regression based projects](#regression-based-projects) <br>
+
+<!-- Add your details -->
+
+#### Classification based projects
+![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Classification.png)
+
+In machine learning, classification refers to a predictive modeling problem where a class label is predicted for a given example of input data.
+
+[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Classification)
+
+#### Regression based projects
+![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Regression.jpg)
+
+Regression is a supervised learning technique which helps in finding the correlation between variables and enables us to predict the continuous output variable based on the one or more predictor variables.
+
+[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
+
+<!-- PROJECTS Section Ends -->
+
+<!-- FEATURED Section Starts -->
+## FEATURED
+<!-- Add your details -->
+##### Certifications
+Machine Learning by Columbia University
+
+##### Achievements
+Star performer of the year at Accenture
+<!-- FEATURED Section Ends -->
+
