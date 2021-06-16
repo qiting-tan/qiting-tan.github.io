@@ -50,16 +50,15 @@ March 2021- Present<br>
 ### PROJECTS
 <!-- Add your details -->
 
-[Classification based projects](#classification-based-projects) <br>
+[Personal projects](#Personal-project) <br>
 [Regression based projects](#regression-based-projects) <br>
 
 <!-- Add your details -->
 
 ### __Personal Project__
 [HDB Data Analysis](https://github.com/qiting-tan/Personal-Project_HDB-hunt-2021/blob/3861708f1e5e1c345e40fa07d14693e2dd1400e4/personal-project-hdb-resale-prices-from-2017.ipynb)
-In this project, i took data from data.gov.sg to analyse HDB trends to make better decision through data analytics 
+In this project, i took data from data.gov.sg to analyse HDB trends to make better decision through data analytics.
 
-[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Classification)
 
 ### Regression based projects
 ![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Regression.jpg)
