@@ -26,7 +26,7 @@ I am __Tan Qi Ting__, an aspiring data scientist. I am currently a trainee with 
 <!-- ABOUT Section Ends -->
 
 <!-- EXPERIENCE Section Starts -->
-##__EXPERIENCE__
+## __EXPERIENCE__
 <!-- Add your details -->
 ### __Marshall Cavendish Education Pte Ltd__
 Editor<br>
