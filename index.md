@@ -3,7 +3,7 @@
 
 <!-- Add your details -->
 ✉️: keytanqiting@gmail.com 
-&nbsp;&nbsp; 📲 +91-XXXXXXXXXX
+&nbsp;&nbsp; 📲 +65-92210051
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/tanqiting/) 
 
 <!-- CONTACT Section Ends -->
@@ -30,12 +30,12 @@ I am Tan Qi Ting, an aspiring data scientist. I am currently a trainee with Bost
 <!-- EXPERIENCE Section Starts -->
 ### EXPERIENCE
 <!-- Add your details -->
-##### BOSTON CONSULTING GROUP
-SENIOR ANALYST<br>
-June-2019 to Present: 1 year 10 Months
+##### Marshall Cavendish Education Pte Ltd
+Editor<br>
+March-2020 to Feb 2021: 1 year 
 
-ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
-UNIT: BCG GAMMA
+ROLE: Mathematics Editor
+UNIT:Editorial
 
 Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
 
@@ -44,8 +44,9 @@ Working on various analytics based cases that facilitates clients for next-gener
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
-##### LNCT Bhopal
-Engineering Graduate 2010-14, First Division
+##### Boston Consulting Group Digital Academy 
+Business and Data Analytics track
+March 2021- Present
 
 <!-- EDUCATION Section Ends -->
 
