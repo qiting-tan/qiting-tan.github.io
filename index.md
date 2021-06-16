@@ -57,6 +57,7 @@ August 2013 - June 2016 <br>
 
 ### __Personal Data Analytics Project__
 [HDB Data Analysis](https://github.com/qiting-tan/Personal-Project_HDB-hunt-2021/blob/3861708f1e5e1c345e40fa07d14693e2dd1400e4/personal-project-hdb-resale-prices-from-2017.ipynb)<br>
+I want to buy a house in Singapore.<br>
 In this project, I took data from data.gov.sg to analyse HDB(Singapore Public Housing) trends to make better decision through data analytics.<br>
 <br>
 [BCG RISE Program Data Analysis part 1](https://github.com/qiting-tan/Personal-Project_EWD/blob/fd5499bc2ebf6134cffb99e225a942e4a6910c4d/personal-project-ewd-code.ipynb)<br>
