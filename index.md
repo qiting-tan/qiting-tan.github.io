@@ -60,7 +60,7 @@ August 2013 - June 2016 <br>
 In this project, I took data from data.gov.sg to analyse HDB(Singapore Public Housing) trends to make better decision through data analytics.<br>
 <br>
 [BCG RISE Program Data Analysis part 1](https://github.com/qiting-tan/Personal-Project_EWD/blob/fd5499bc2ebf6134cffb99e225a942e4a6910c4d/personal-project-ewd-code.ipynb)<br>
-[BCG RISE Program Data Analysis part 1](https://github.com/qiting-tan/Personal-Project_EWD2/blob/86e41b4a813f10a1cfab1fd997cdd84c95a9ea2b/Personal-Project_%20EWD2.ipynb)<br>
+[BCG RISE Program Data Analysis part 2](https://github.com/qiting-tan/Personal-Project_EWD2/blob/86e41b4a813f10a1cfab1fd997cdd84c95a9ea2b/Personal-Project_%20EWD2.ipynb)<br>
 
 ### __Udemy Academy Capstone Project__
 [Fandango Analysis](https://github.com/qiting-tan/Capstone-Project_Fandango-Analysis/blob/9b6d9b6ad10e087220616e3cd41f651ff86fcdf8/00-Capstone-Project.ipynb)<br>
