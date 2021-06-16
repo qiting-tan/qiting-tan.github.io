@@ -50,12 +50,12 @@ March 2021- Present<br>
 ### PROJECTS
 <!-- Add your details -->
 
-[Personal projects](#Personal-project) <br>
+[Personal Data Analytics projects](#Personal-data-analytics-project) <br>
 [Regression based projects](#regression-based-projects) <br>
 
 <!-- Add your details -->
 
-### __Personal Project__
+### __Personal Data Analytics Project__
 [HDB Data Analysis](https://github.com/qiting-tan/Personal-Project_HDB-hunt-2021/blob/3861708f1e5e1c345e40fa07d14693e2dd1400e4/personal-project-hdb-resale-prices-from-2017.ipynb)
 In this project, i took data from data.gov.sg to analyse HDB trends to make better decision through data analytics.
 
