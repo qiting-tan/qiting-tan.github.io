@@ -1,4 +1,5 @@
 
+
 <!-- CONTACT Section Starts -->
 ## __CONTACT__
 
@@ -11,8 +12,7 @@
 <!-- ABOUT Section Starts -->
 ## __ABOUT__
 <!-- Add link to your picture -->
-
-![1623305477738](https://user-images.githubusercontent.com/85220747/122335599-217b1a00-cf6e-11eb-80f1-ad52f5ff82c1.jpeg)<br>
+![1623305477738-min](https://user-images.githubusercontent.com/85220747/122335673-39eb3480-cf6e-11eb-8115-e13e29080657.jpg)<br>
 
 <!-- Add your details -->
 
