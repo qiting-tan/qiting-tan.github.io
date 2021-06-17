@@ -1,3 +1,4 @@
+
 <!-- CONTACT Section Starts -->
 ## __CONTACT__
 
@@ -11,7 +12,7 @@
 ## __ABOUT__
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/qiting-tan/qiting-tan.github.io/main/1623305477738.jpg)<br>
+![1623305477738](https://user-images.githubusercontent.com/85220747/122335599-217b1a00-cf6e-11eb-80f1-ad52f5ff82c1.jpeg)<br>
 
 <!-- Add your details -->
 
