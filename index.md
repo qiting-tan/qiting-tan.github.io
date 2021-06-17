@@ -51,9 +51,6 @@ August 2013 - June 2016 <br>
 <!-- PROJECTS Section Starts -->
 ## PROJECTS
 <!-- Add your details -->
-[Personal Data Analytics projects](#Personal-Data-Analytics-Project) <br>
-[Udemy Academy Capstone Project](#Udemy-Academy-Capstone-Project) <br>
-<!-- Add your details -->
 
 ### __Personal Data Analytics Project__
 [HDB Data Analysis](https://github.com/qiting-tan/Personal-Project_HDB-hunt-2021/blob/3861708f1e5e1c345e40fa07d14693e2dd1400e4/personal-project-hdb-resale-prices-from-2017.ipynb)<br>
@@ -69,7 +66,7 @@ In this project, I took data from data.gov.sg to analyse HDB(Singapore Public Ho
 <!-- PROJECTS Section Ends -->
 
 <!-- FEATURED Section Starts -->
-# __FEATURED__
+## __FEATURED__
 <!-- Add your details -->
 ### __Certifications__
 __Udemy Academy__  <br>
