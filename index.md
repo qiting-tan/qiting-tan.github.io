@@ -11,7 +11,7 @@
 ## __ABOUT__
 <!-- Add link to your picture -->
 
-![alt text](https://github.com/qiting-tan/qiting-tan.github.io/blob/0c0e5bf0f3bcf72d65cb3cd848602ae7616502d8/1623305477738-min.jpg)<br>
+![alt text](https://raw.githubusercontent.com/qiting-tan/qiting-tan.github.io/main/1623305477738.jpg)<br>
 
 <!-- Add your details -->
 
