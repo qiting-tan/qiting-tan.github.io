@@ -17,13 +17,6 @@
 <!-- Add your details -->
 
 I am __Tan Qi Ting__, an aspiring data scientist. I am currently a trainee with Boston Consulting Group Digital Academy under the RISE program specialising in Business and Data Analytics. I am proficient in Python and SQL. 
-
-
-<!-- Add link to the sections -->
-[Experience](#experience) <br>
-[Education](#education) <br>
-[Projects](#projects) <br>
-[Featured](#featured) <br> 
 <!-- ABOUT Section Ends -->
 
 <!-- EXPERIENCE Section Starts -->
