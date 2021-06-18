@@ -45,6 +45,10 @@ August 2013 - June 2016 <br>
 <!-- PROJECTS Section Starts -->
 ## PROJECTS
 <!-- Add your details -->
+### __Personal Math Programs Project__
+[The Monty Hall Game and trails](https://github.com/qiting-tan/The-Monty-Hall-Problem/blob/f09d06056eb5d3da37bcf1624b75ced284438be7/The%20Monty%20Hall%20Problem%20Simulation%20and%20Game.ipynb)<br>
+
+https://github.com/qiting-tan/The-Monty-Hall-Problem/blob/f09d06056eb5d3da37bcf1624b75ced284438be7/The%20Monty%20Hall%20Problem%20Simulation%20and%20Game.ipynb
 
 ### __Personal Data Analytics Project__
 [HDB Data Analysis](https://github.com/qiting-tan/Personal-Project_HDB-hunt-2021/blob/3861708f1e5e1c345e40fa07d14693e2dd1400e4/personal-project-hdb-resale-prices-from-2017.ipynb)<br>
