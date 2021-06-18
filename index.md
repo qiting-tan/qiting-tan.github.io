@@ -25,8 +25,8 @@ I am __Tan Qi Ting__, an aspiring data scientist. I am currently a trainee with 
 #### __Marshall Cavendish Education Pte Ltd__
 Editor<br>
 March 2020 - Feb 2021: 1 year <br> 
-ROLE: Mathematics Editor<br> 
-UNIT:Editorial<br> 
+Role: Mathematics Editor<br> 
+Department: Editorial<br> 
 <!-- EXPERIENCE Section Ends -->
 
 <!-- EDUCATION Section Starts -->
@@ -69,6 +69,12 @@ __Udemy Academy__  <br>
 [The Complete SQL Bootcamp 2021: Go from Zero to Hero](https://ude.my/UC-7185793c-c166-4764-8859-2155a642d220)  <br>
 [Python for Finance: Investment Fundamentals & Data Analytics](https://ude.my/UC-02e94344-10a4-4796-bd12-16be4ab2345e)  <br>
 [Probability and Statistics for Business and Data Science](https://ude.my/UC-3ad06c60-a395-4e6a-ac19-3936b5352b33)  <br>
+
+__Linkedin Learning__  <br>
+[Become a Business Analyst](https://github.com/qiting-tan/qiting-tan.github.io/blob/main/CertificateOfCompletion_Become%20a%20Business%20Analyst.pdf)  <br>
+[Become a Data Analyst](https://github.com/qiting-tan/qiting-tan.github.io/blob/main/CertificateOfCompletion_Become%20a%20Data%20Analyst.pdf)  <br>
+
+
 
 #### __Achievements__
 __BCG RISE Top 2 Business Essentials Group Project__ <br>
