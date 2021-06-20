@@ -49,14 +49,21 @@ August 2013 - June 2016 <br>
 [The Monty Hall Game and Trials](https://github.com/qiting-tan/The-Monty-Hall-Problem/blob/main/The%20Monty%20Hall%20Problem%20Simulation%20and%20Game.ipynb)<br>
 
 #### __Personal Data Analytics Project__
+Data Analysis and Data Visualisation Project
 [HDB Data Analysis](https://github.com/qiting-tan/Personal-Project_HDB-hunt-2021/blob/3861708f1e5e1c345e40fa07d14693e2dd1400e4/personal-project-hdb-resale-prices-from-2017.ipynb)<br>
-I want to buy a house in Singapore.<br>
-In this project, I took data from data.gov.sg to analyse HDB(Singapore Public Housing) trends to make better decision through data analytics.<br>
+
+
+#### __BCG Digital Academy RISE Projects__
+Python <br>
+[Python Programs Assignments](https://github.com/qiting-tan/BCG-RISE-Python)<br>
+[Data Analysis part 1(Originally excel assignment)](https://github.com/qiting-tan/Personal-Project_EWD/blob/fd5499bc2ebf6134cffb99e225a942e4a6910c4d/personal-project-ewd-code.ipynb)<br>
+[Data Analysis part 2(Originally excel assignment)](https://github.com/qiting-tan/Personal-Project_EWD2/blob/86e41b4a813f10a1cfab1fd997cdd84c95a9ea2b/Personal-Project_%20EWD2.ipynb)<br>
 <br>
-[BCG RISE Program Data Analysis part 1](https://github.com/qiting-tan/Personal-Project_EWD/blob/fd5499bc2ebf6134cffb99e225a942e4a6910c4d/personal-project-ewd-code.ipynb)<br>
-[BCG RISE Program Data Analysis part 2](https://github.com/qiting-tan/Personal-Project_EWD2/blob/86e41b4a813f10a1cfab1fd997cdd84c95a9ea2b/Personal-Project_%20EWD2.ipynb)<br>
+SQL <br>
+[BCG RISE SQL Assignments](https://github.com/qiting-tan/BCG-RISE-SQL)<br>
 
 #### __Udemy Academy Capstone Project__
+Data Analysis and Data Visualisation Project
 [Fandango Analysis](https://github.com/qiting-tan/Capstone-Project_Fandango-Analysis/blob/9b6d9b6ad10e087220616e3cd41f651ff86fcdf8/00-Capstone-Project.ipynb)<br>
 [9-11 Analysis](https://github.com/qiting-tan/Capstone-Project_911-Analysis/blob/93e367bf348c6b6bd80ea34d59e8d0413e0a6cd7/911%20Calls%20Data%20Capstone%20Project.ipynb)<br>
 <!-- PROJECTS Section Ends -->
