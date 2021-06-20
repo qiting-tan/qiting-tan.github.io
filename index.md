@@ -63,7 +63,7 @@ SQL <br>
 [BCG RISE SQL Assignments](https://github.com/qiting-tan/BCG-RISE-SQL)<br>
 
 #### __Udemy Academy Capstone Project__
-Data Analysis and Data Visualisation Project
+Data Analysis and Data Visualisation Project <br>
 [Fandango Analysis](https://github.com/qiting-tan/Capstone-Project_Fandango-Analysis/blob/9b6d9b6ad10e087220616e3cd41f651ff86fcdf8/00-Capstone-Project.ipynb)<br>
 [9-11 Analysis](https://github.com/qiting-tan/Capstone-Project_911-Analysis/blob/93e367bf348c6b6bd80ea34d59e8d0413e0a6cd7/911%20Calls%20Data%20Capstone%20Project.ipynb)<br>
 <!-- PROJECTS Section Ends -->
