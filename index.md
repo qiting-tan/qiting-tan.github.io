@@ -49,7 +49,7 @@ August 2013 - June 2016 <br>
 [The Monty Hall Game and Trials](https://github.com/qiting-tan/The-Monty-Hall-Problem/blob/main/The%20Monty%20Hall%20Problem%20Simulation%20and%20Game.ipynb)<br>
 
 #### __Personal Data Analytics Project__
-Data Analysis and Data Visualisation Project
+Data Analysis and Data Visualisation Project <br>
 [HDB Data Analysis](https://github.com/qiting-tan/Personal-Project_HDB-hunt-2021/blob/3861708f1e5e1c345e40fa07d14693e2dd1400e4/personal-project-hdb-resale-prices-from-2017.ipynb)<br>
 
 
