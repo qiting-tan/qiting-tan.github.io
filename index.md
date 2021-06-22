@@ -58,7 +58,6 @@ Data Analysis and Data Visualisation Project <br>
 
 
 #### __BCG Digital Academy RISE Projects__
-Python <br>
 - [Python Programs Assignments](https://github.com/qiting-tan/BCG-RISE-Python)<br>
 - [Data Analysis part 1(Originally excel assignment)](https://github.com/qiting-tan/Personal-Project_EWD/blob/fd5499bc2ebf6134cffb99e225a942e4a6910c4d/personal-project-ewd-code.ipynb)<br>
 - [Data Analysis part 2(Originally excel assignment)](https://github.com/qiting-tan/Personal-Project_EWD2/blob/86e41b4a813f10a1cfab1fd997cdd84c95a9ea2b/Personal-Project_%20EWD2.ipynb)<br>
