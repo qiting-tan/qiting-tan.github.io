@@ -45,8 +45,10 @@ August 2013 - June 2016 <br>
 <!-- PROJECTS Section Starts -->
 ## PROJECTS
 <!-- Add your details -->
-#### __Personal Math Programs Project__
+#### __Personal Programs Project__
 [The Monty Hall Game and Trials](https://github.com/qiting-tan/The-Monty-Hall-Problem/blob/main/The%20Monty%20Hall%20Problem%20Simulation%20and%20Game.ipynb)<br>
+[My Game Device](https://github.com/qiting-tan/Game-Device/blob/main/Rock-Paper-Scissors-Lizard-Spork!.ipynb)<br>
+This game device house the Traditional 'Rock-Paper-Scissors' game as well as Big Bang Theory's 'Rock-Paper-Scissors-Lizard-Spork-Game'<br>
 
 #### __Personal Data Analytics Project__
 Data Analysis and Data Visualisation Project <br>
