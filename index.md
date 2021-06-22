@@ -46,30 +46,30 @@ August 2013 - June 2016 <br>
 ## PROJECTS
 <!-- Add your details -->
 #### __Personal Programs Project__
-[The Monty Hall Game and Trials](https://github.com/qiting-tan/The-Monty-Hall-Problem/blob/main/The%20Monty%20Hall%20Problem%20Simulation%20and%20Game.ipynb)<br>
-[My Game Device](https://github.com/qiting-tan/Game-Device/blob/main/Rock-Paper-Scissors-Lizard-Spork!.ipynb)<br>
-This game device housese:<br>
-1. Traditional 'Rock-Paper-Scissors' game <br>
-2. Big Bang Theory's 'Rock-Paper-Scissors-Lizard-Spork' game<br>
+- [The Monty Hall Game and Trials](https://github.com/qiting-tan/The-Monty-Hall-Problem/blob/main/The%20Monty%20Hall%20Problem%20Simulation%20and%20Game.ipynb)<br>
+- [My Game Device](https://github.com/qiting-tan/Game-Device/blob/main/Rock-Paper-Scissors-Lizard-Spork!.ipynb)<br>
+  This game device housese:<br>
+  1. Traditional 'Rock-Paper-Scissors' game <br>
+  2. Big Bang Theory's 'Rock-Paper-Scissors-Lizard-Spork' game<br>
 
 #### __Personal Data Analytics Project__
 Data Analysis and Data Visualisation Project <br>
-[HDB Data Analysis](https://github.com/qiting-tan/Personal-Project_HDB-hunt-2021/blob/3861708f1e5e1c345e40fa07d14693e2dd1400e4/personal-project-hdb-resale-prices-from-2017.ipynb)<br>
+- [HDB Data Analysis](https://github.com/qiting-tan/Personal-Project_HDB-hunt-2021/blob/3861708f1e5e1c345e40fa07d14693e2dd1400e4/personal-project-hdb-resale-prices-from-2017.ipynb)<br>
 
 
 #### __BCG Digital Academy RISE Projects__
 Python <br>
-[Python Programs Assignments](https://github.com/qiting-tan/BCG-RISE-Python)<br>
-[Data Analysis part 1(Originally excel assignment)](https://github.com/qiting-tan/Personal-Project_EWD/blob/fd5499bc2ebf6134cffb99e225a942e4a6910c4d/personal-project-ewd-code.ipynb)<br>
-[Data Analysis part 2(Originally excel assignment)](https://github.com/qiting-tan/Personal-Project_EWD2/blob/86e41b4a813f10a1cfab1fd997cdd84c95a9ea2b/Personal-Project_%20EWD2.ipynb)<br>
+- [Python Programs Assignments](https://github.com/qiting-tan/BCG-RISE-Python)<br>
+- [Data Analysis part 1(Originally excel assignment)](https://github.com/qiting-tan/Personal-Project_EWD/blob/fd5499bc2ebf6134cffb99e225a942e4a6910c4d/personal-project-ewd-code.ipynb)<br>
+- [Data Analysis part 2(Originally excel assignment)](https://github.com/qiting-tan/Personal-Project_EWD2/blob/86e41b4a813f10a1cfab1fd997cdd84c95a9ea2b/Personal-Project_%20EWD2.ipynb)<br>
 <br>
 SQL <br>
-[BCG RISE SQL Assignments](https://github.com/qiting-tan/BCG-RISE-SQL)<br>
+- [BCG RISE SQL Assignments](https://github.com/qiting-tan/BCG-RISE-SQL)<br>
 
 #### __Udemy Academy Capstone Project__
 Data Analysis and Data Visualisation Project <br>
-[Fandango Analysis](https://github.com/qiting-tan/Capstone-Project_Fandango-Analysis/blob/9b6d9b6ad10e087220616e3cd41f651ff86fcdf8/00-Capstone-Project.ipynb)<br>
-[9-11 Analysis](https://github.com/qiting-tan/Capstone-Project_911-Analysis/blob/93e367bf348c6b6bd80ea34d59e8d0413e0a6cd7/911%20Calls%20Data%20Capstone%20Project.ipynb)<br>
+- [Fandango Analysis](https://github.com/qiting-tan/Capstone-Project_Fandango-Analysis/blob/9b6d9b6ad10e087220616e3cd41f651ff86fcdf8/00-Capstone-Project.ipynb)<br>
+- [9-11 Analysis](https://github.com/qiting-tan/Capstone-Project_911-Analysis/blob/93e367bf348c6b6bd80ea34d59e8d0413e0a6cd7/911%20Calls%20Data%20Capstone%20Project.ipynb)<br>
 <!-- PROJECTS Section Ends -->
 
 <!-- FEATURED Section Starts -->
