@@ -16,7 +16,9 @@
 
 <!-- Add your details -->
 
-I am __Tan Qi Ting__, an aspiring data scientist. I am currently a trainee with Boston Consulting Group Digital Academy under the RISE program specialising in Business and Data Analytics. I am proficient in Python and SQL. 
+I am __Tan Qi Ting__, an aspiring data scientist. <br>
+I am currently a trainee with Boston Consulting Group Digital Academy under the RISE program specialising in Business and Data Analytics. <br>
+I am proficient in Python, PowerBI and SQL. <br>
 <!-- ABOUT Section Ends -->
 
 <!-- EXPERIENCE Section Starts -->
@@ -45,6 +47,9 @@ August 2013 - June 2016 <br>
 <!-- PROJECTS Section Starts -->
 ## PROJECTS
 <!-- Add your details -->
+#### __Personal Mathematics Book Project__
+[The Informal H2 Math Formula GuideBook](https://drive.google.com/file/d/1SMQZThCRVmxmgF6cfyqnitEOKQiVxAzE/view)<br>
+
 #### __Personal Programs Project__
 - [The Monty Hall Game and Trials](https://github.com/qiting-tan/The-Monty-Hall-Problem/blob/main/The%20Monty%20Hall%20Problem%20Simulation%20and%20Game.ipynb)<br>
 - [My Game Device](https://github.com/qiting-tan/Game-Device/blob/main/Rock-Paper-Scissors-Lizard-Spork!.ipynb)<br>
