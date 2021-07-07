@@ -88,7 +88,7 @@ __Linkedin Learning__  <br>
 [Become a Data Analyst](https://github.com/qiting-tan/qiting-tan.github.io/blob/main/CertificateOfCompletion_Become%20a%20Data%20Analyst.pdf)  <br>
 
 __RISE Programme by DigitalBCG Academy__  <br>
-[AWS Day: Business Essentials , Big Data Fundamentals and Machine Learning Basics](https://github.com/qiting-tan/qiting-tan.github.io/blob/main/TAN%20QI%20TING.pdf)<br>
+[AWS Day: Business Essentials, Big Data Fundamentals and Machine Learning Basics](https://github.com/qiting-tan/qiting-tan.github.io/blob/main/TAN%20QI%20TING.pdf)<br>
 
 #### __Achievements__
 __BCG RISE Top 2 Business Essentials Group Project__ <br>
