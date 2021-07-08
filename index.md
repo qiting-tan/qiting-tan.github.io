@@ -50,7 +50,7 @@ August 2013 - June 2016 <br>
 #### __Personal Mathematics Book Project__
 [The Informal H2 Math Formula GuideBook](https://drive.google.com/file/d/1SMQZThCRVmxmgF6cfyqnitEOKQiVxAzE/view)<br>
 
-#### __Personal Programs Project__
+#### __Personal Python Projects__
 - [The Monty Hall Game and Trials](https://github.com/qiting-tan/The-Monty-Hall-Problem/blob/main/The%20Monty%20Hall%20Problem%20Simulation%20and%20Game.ipynb)<br>
 - [My Game Device](https://github.com/qiting-tan/Game-Device/blob/main/Rock-Paper-Scissors-Lizard-Spork!.ipynb)<br>
   This game device housese:<br>
