@@ -63,6 +63,8 @@ Data Analysis and Data Visualisation Project <br>
 
 
 #### __BCG Digital Academy RISE Projects__
+- [Business Essentials Project](https://github.com/qiting-tan/qiting-tan.github.io/blob/main/BCG%20Projects/BCGRise%20-%20Business%20Essentials%20-%20Group%20Assignment%20-%20Group%205%20(RISEing%20Stars)_Submission_Final.pdf)<br>
+- [Digital Essentials Project](https://github.com/qiting-tan/qiting-tan.github.io/blob/main/BCG%20Projects/DEGP%20-%20Group%205%20(Rising%20Stars)_vF.pdf)<br>
 - [Python Programs Assignments](https://github.com/qiting-tan/BCG-RISE-Python)<br>
 - [Data Analysis part 1(Originally excel assignment)](https://github.com/qiting-tan/Personal-Project_EWD/blob/fd5499bc2ebf6134cffb99e225a942e4a6910c4d/personal-project-ewd-code.ipynb)<br>
 - [Data Analysis part 2(Originally excel assignment)](https://github.com/qiting-tan/Personal-Project_EWD2/blob/86e41b4a813f10a1cfab1fd997cdd84c95a9ea2b/Personal-Project_%20EWD2.ipynb)<br>
@@ -92,6 +94,8 @@ __RISE Programme by DigitalBCG Academy__  <br>
 
 #### __Achievements__
 __BCG RISE Top 2 Business Essentials Group Project__ <br>
+[Click here to view project](https://github.com/qiting-tan/qiting-tan.github.io/blob/main/BCG%20Projects/BCGRise%20-%20Business%20Essentials%20-%20Group%20Assignment%20-%20Group%205%20(RISEing%20Stars)_Submission_Final.pdf)  <br>
+
 ![alt text](https://images.credly.com/size/340x340/images/cf29c075-cf8d-463d-a94c-311d9beca898/BEGP.PNG)  <br>
 [Click here to view badge](https://www.credly.com/badges/0ae32d0e-435f-46d9-892f-afe1f5d93057)  <br>
 <!-- FEATURED Section Ends -->
