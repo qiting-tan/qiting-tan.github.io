@@ -98,5 +98,11 @@ __BCG RISE Top 2 Business Essentials Group Project__ <br>
 
 ![alt text](https://images.credly.com/size/340x340/images/cf29c075-cf8d-463d-a94c-311d9beca898/BEGP.PNG)  <br>
 [Click here to view badge](https://www.credly.com/badges/0ae32d0e-435f-46d9-892f-afe1f5d93057)  <br>
+
+
+__BCG RISE Distinction Hackathon Project__ <br>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="47727ba3-b297-49b4-b085-11411b2d6b81" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+[Click here to view badge](https://www.credly.com/badges/47727ba3-b297-49b4-b085-11411b2d6b81/public_url)<br>
 <!-- FEATURED Section Ends -->
 
