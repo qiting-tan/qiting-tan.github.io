@@ -102,7 +102,7 @@ __BCG RISE Top 2 Business Essentials Group Project__ <br>
 
 __BCG RISE Distinction Hackathon Project__ <br>
 
-![alt text](![bcg-rise-distinction-hackathon-project](https://user-images.githubusercontent.com/85220747/125914771-5c1859aa-b633-45bf-8a1b-ed3bc4a504f3.png))  <br>
+![alt text](https://user-images.githubusercontent.com/85220747/125914771-5c1859aa-b633-45bf-8a1b-ed3bc4a504f3.png)  <br>
 [Click here to view badge](https://www.credly.com/badges/47727ba3-b297-49b4-b085-11411b2d6b81/public_url)<br>
 <!-- FEATURED Section Ends -->
 
