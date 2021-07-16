@@ -1,5 +1,3 @@
-
-
 <!-- CONTACT Section Starts -->
 ## __CONTACT__
 
@@ -96,7 +94,7 @@ __RISE Programme by DigitalBCG Academy__  <br>
 __BCG RISE Top 2 Business Essentials Group Project__ <br>
 [Click here to view project](https://github.com/qiting-tan/qiting-tan.github.io/blob/main/BCG%20Projects/BCGRise%20-%20Business%20Essentials%20-%20Group%20Assignment%20-%20Group%205%20(RISEing%20Stars)_Submission_Final.pdf)  <br>
 
-![alt text](https://images.credly.com/size/340x340/images/cf29c075-cf8d-463d-a94c-311d9beca898/BEGP.PNG)  <br>
+![bcg-rise-top-2-business-essentials-group-project](https://user-images.githubusercontent.com/85220747/125915152-30d29136-ad03-4b5a-a12f-af0c673a06d5.png)  <br>
 [Click here to view badge](https://www.credly.com/badges/0ae32d0e-435f-46d9-892f-afe1f5d93057)  <br>
 
 
