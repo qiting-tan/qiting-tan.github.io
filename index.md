@@ -63,7 +63,7 @@ Data Analysis and Data Visualisation Project <br>
 #### __BCG Digital Academy RISE Projects__
 - [Business Essentials Project](https://github.com/qiting-tan/qiting-tan.github.io/blob/main/BCG%20Projects/BCGRise%20-%20Business%20Essentials%20-%20Group%20Assignment%20-%20Group%205%20(RISEing%20Stars)_Submission_Final.pdf)<br>
 - [Digital Essentials Project](https://github.com/qiting-tan/qiting-tan.github.io/blob/main/BCG%20Projects/DEGP%20-%20Group%205%20(Rising%20Stars)_vF.pdf)<br>
-- - [Mini Project 1- PowerBI Data Visualisation](https://github.com/qiting-tan/qiting-tan.github.io/blob/main/BCG%20Projects/Mini%20Project%201-%20PowerBI.pdf)<br>
+- [Mini Project 1- PowerBI Data Visualisation](https://github.com/qiting-tan/qiting-tan.github.io/blob/main/BCG%20Projects/Mini%20Project%201-%20PowerBI.pdf)<br>
 
 #### __BCG Digital Academy RISE Assignments__
 - [Python Programs Assignments](https://github.com/qiting-tan/BCG-RISE-Python)<br>
