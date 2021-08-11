@@ -17,7 +17,7 @@
 I am __Tan Qi Ting__, an aspiring Data Analyst. <br>
 I am currently a trainee with Boston Consulting Group Digital Academy under the RISE program specialising in Business and Data Analytics. <br>
 I am proficient in Python, PowerBI and SQL. <br>
-[HackerRank Progress](https://www.hackerrank.com/keytanqiting)<br>
+- [HackerRank Progress](https://www.hackerrank.com/keytanqiting)<br>
 <!-- ABOUT Section Ends -->
 
 <!-- EXPERIENCE Section Starts -->
