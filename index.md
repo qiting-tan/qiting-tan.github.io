@@ -111,5 +111,12 @@ __BCG RISE Distinction Hackathon Project__ <br>
 
 ![alt text](https://user-images.githubusercontent.com/85220747/125914771-5c1859aa-b633-45bf-8a1b-ed3bc4a504f3.png)  <br>
 [Click here to view badge](https://www.credly.com/badges/47727ba3-b297-49b4-b085-11411b2d6b81/public_url)<br>
+
+__BCG RISE TOP 2 Churn Prediction Project__ <br>
+
+![alt text](https://user-images.githubusercontent.com/85220747/131292067-1f2dacbc-ad39-42d6-8983-05a569cee8ed.png)  <br>
+[Click here to view badge](https://www.credly.com/badges/198bc9da-1f85-4238-90fb-f74a9b3710c0/public_url)<br>
+
+
 <!-- FEATURED Section Ends -->
 
