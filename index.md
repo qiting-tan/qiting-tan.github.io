@@ -69,6 +69,9 @@ Data Analysis and Data Visualisation Project <br>
 - [Mini Project 1- PowerBI Data Visualisation](https://github.com/qiting-tan/qiting-tan.github.io/blob/main/BCG%20Projects/Mini%20Project%201-%20PowerBI.pdf)<br>
 - [Mini Project 2- Statistical Analysis using python](https://github.com/qiting-tan/qiting-tan.github.io/blob/main/BCG%20Projects/Mini%20Project%202-%20Statistical%20Analysis%20.ipynb)<br>
 - [Mini Project 3- Machine Learning: Predicting Churn](https://github.com/qiting-tan/qiting-tan.github.io/blob/main/BCG%20Projects/MP3_MasterCode-BD03Group5-V6.ipynb) <br>
+- [Capstone Project- HR Dashboard and Machine Learning](https://github.com/qiting-tan/qiting-tan.github.io/blob/main/BCG%20Projects/BDA03%20Group5-%20Capstone%20Project-compressed.pdf) <br>
+
+
 
 #### __BCG Digital Academy RISE Assignments__
 - [Python Programs Assignments](https://github.com/qiting-tan/BCG-RISE-Python)<br>
